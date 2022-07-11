@@ -1,0 +1,33 @@
+html, body {
+	background: #000000;
+	color: #ffffff;
+	text-shadow: -1pt 0 0 #ff0000, 1pt 0 0 #00ffff;
+	font-family: "sans";
+}
+h1 {
+	text-shadow: 1.6pt 0 0 #ff0000, -1.6pt 0 0 #00ffff;
+}
+h2 {
+	text-shadow: 0.8pt 0 0 #ff0000, -0.8pt 0 0 #00ffff;
+}
+h3 {
+	text-shadow: 0.4pt 0 0 #ff0000, -0.4pt 0 0 #00ffff;
+}
+h4 {
+	text-shadow: 0.2pt 0 0 #ff0000, -0.2pt 0 0 #00ffff;
+}
+h5 {
+	text-shadow: 0.1pt 0 0 #ff0000, -0.1pt 0 0 #00ffff;
+}
+h6 {
+	text-shadow: 0.05pt 0 0 #ff0000, 0.05pt 0 0 #00ffff;
+}
+tr, td {
+	border: 2pt solid;
+	border-color: #ffffff;
+	box-shadow: -1.2pt 0 0 #ff0000, 1.2pt 0 0 #00ffff, inset -1.2pt 0 0 #ff0000, inset 1.2pt 0 0 #00ffff;
+	padding-inline: 3pt;
+}
+table {
+	border-spacing: 5pt;
+}
